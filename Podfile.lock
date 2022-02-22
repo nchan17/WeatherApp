@@ -1,0 +1,26 @@
+PODS:
+  - CollectionViewPagingLayout (0.4.0)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - UPCarouselFlowLayout (1.1.2)
+
+DEPENDENCIES:
+  - CollectionViewPagingLayout
+  - SDWebImage
+  - UPCarouselFlowLayout
+
+SPEC REPOS:
+  trunk:
+    - CollectionViewPagingLayout
+    - SDWebImage
+    - UPCarouselFlowLayout
+
+SPEC CHECKSUMS:
+  CollectionViewPagingLayout: 38b1bd88c6b61bfa9a92c03d13189fe808953559
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  UPCarouselFlowLayout: 4c7d2c43a10ebb1597bde502a53699d378341dad
+
+PODFILE CHECKSUM: 7f980ab405f88cea2627342c6c3c2ba23efdd648
+
+COCOAPODS: 1.10.1
